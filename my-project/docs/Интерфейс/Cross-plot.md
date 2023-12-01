@@ -12,8 +12,8 @@
 
 ![](Кроссплот_img/Crossplot_startWindow.png)
 
-> [!Note]- Видео
-> ![](Кроссплот_img/CrossPlot_inputDataSelection.gif)
+Видео
+![](Кроссплот_img/CrossPlot_inputDataSelection.gif)
 
 Когда нужные кривые обозначены, достаточно перенести одну или несколько скважин в поле кросс-плота:
 
@@ -35,8 +35,8 @@
 - также пользователь может ввести точно нужные ему значения масштабов по осям
 
 
-> [!info]- Пример
-> ![](Кроссплот_img/CrossPlot_ViewAdjust.gif)
+Пример
+![](Кроссплот_img/CrossPlot_ViewAdjust.gif)
 
 
 # Основные настройки
@@ -47,8 +47,8 @@
 ![](Кроссплот_img/CrossPlot_paletteAdjustment.png)
 
 
-> [!info]- Пример
-> ![](Кроссплот_img/CrossPlot_paletteAdjustment.gif)
+Пример
+![](Кроссплот_img/CrossPlot_paletteAdjustment.gif)
 
 ## Включение и отключение скважин
 
@@ -68,8 +68,8 @@
 ![](Кроссплот_img/Crossplot_filter_option2.png)
 
 
-> [!info]- Пример
-> ![](Кроссплот_img/CrossPlot_Filter.gif)
+Пример
+![](Кроссплот_img/CrossPlot_Filter.gif)
 
 
 ## Настройка прозрачности точек
